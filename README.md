@@ -93,6 +93,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For questions or collaboration inquiries, reach out to:
 
-Ramesh Sharma
-Email: liwinhumanz@gmail.com
-GitHub: livinghumanz
+- Ramesh Sharma
+- Email: liwinhumanz@gmail.com
+- GitHub: livinghumanz
+
